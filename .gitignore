@@ -16,3 +16,4 @@ coverage.xml
 cover/
 venv/
 __pycache__/
+.env/
